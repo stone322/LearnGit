@@ -12,4 +12,5 @@ dev_branch()
 
 branch1()
 
+branch2()
 
