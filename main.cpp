@@ -4,7 +4,7 @@
 void branch1()
 {
     int a = 1;
-    
+    return;
 }
 
 
