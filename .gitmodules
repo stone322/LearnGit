@@ -1,0 +1,3 @@
+[submodule "aebcar"]
+	path = aebcar
+	url = git@github.com:stone322/aebcar.git
